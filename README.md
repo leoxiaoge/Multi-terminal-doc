@@ -26,3 +26,5 @@ docsify serve .
 ```
 
 浏览器访问 http://localhost:3000 即可查看
+
+(https://docs.cool-admin.com/#/)

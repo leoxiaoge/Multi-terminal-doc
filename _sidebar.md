@@ -12,7 +12,7 @@
   * [App](pages/JavaScript/api/App.md)
   * [Page](pages/JavaScript/api/Page.md)
   * [Element](pages/JavaScript/api/Element.md)
-  * [Native](pages/JavaScript/api/Native.md)
+  * [Electron](pages/JavaScript/api/Electron.md)
 * 接口文档
   * [Minium](pages/JavaScript/api/Minium.md)
   * [App](pages/JavaScript/api/App.md)
