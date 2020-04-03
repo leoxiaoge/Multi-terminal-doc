@@ -5,10 +5,10 @@
   * [快速开始](pages/JavaScript/quick_start.md)
   * [示例](pages/JavaScript/sample.md)
 * 后台手册
-  * [Node](pages/JavaScript/api/Minium.md)
-  * [App](pages/JavaScript/api/App.md)
+  * [node](pages/JavaScript/api/node.md)
+  * [java](pages/JavaScript/api/java.md)
 * 前端手册
-  * [Minium](pages/JavaScript/api/Minium.md)
+  * [vue](pages/JavaScript/api/vue.md)
   * [App](pages/JavaScript/api/App.md)
   * [Page](pages/JavaScript/api/Page.md)
   * [Element](pages/JavaScript/api/Element.md)
