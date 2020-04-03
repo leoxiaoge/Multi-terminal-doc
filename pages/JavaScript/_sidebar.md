@@ -14,9 +14,6 @@
   * [Element](pages/JavaScript/api/Element.md)
   * [条件编译](pages/JavaScript/api/Preprocess.md)
   * [Electron](pages/JavaScript/api/Electron.md)
-* 接口文档
-  * [Minium](pages/JavaScript/api/Minium.md)
-  * [App](pages/JavaScript/api/App.md)
 * 测试进阶
   * [测试框架](pages/JavaScript/framework/framework.md)
   * [真机测试](pages/JavaScript/framework/mobile.md)
